@@ -31,6 +31,10 @@
     {
       "id": "infrastructure",
       "name": "Infrastructure"
+    },
+    {
+      "id": "languages",
+      "name": "Languages"
     }
   ],
   "rings": [
